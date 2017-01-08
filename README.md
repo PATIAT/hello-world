@@ -1,10 +1,3 @@
-# hello-world
-paul's first repository
+Paul's 1st Repository!!!
 
-Hi there,
-
-My name is Paul and this is my first repository.
-
-Lets GO!
-
-Thanks
+This was updated on Sunday 8th January 2017 @ 20:21
