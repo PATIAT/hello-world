@@ -1,0 +1,6 @@
+# hello-world
+This is Paul's first repository.
+
+It was created on 8th January 2017.
+
+GO!
